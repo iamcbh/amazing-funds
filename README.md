@@ -1,2 +1,1 @@
-# amazing-funds
-Amazing funds
+#
