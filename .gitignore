@@ -1,0 +1,7 @@
+.metadata
+.metadata/*
+Servers
+RemoteSystemTempFiles/
+/RemoteSystemTempFiles*/
+/target*/
+.recommenders/
