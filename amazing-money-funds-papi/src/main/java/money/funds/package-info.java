@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author aspmobile
+ * @author me
  *
  */
 package money.funds;
