@@ -14,4 +14,4 @@
 *	`/src/main/java/main/money/funds/Application.java` - start the Springboot instance
 
 
-http://localhost:8080/api/moeney/funds/market
+http://localhost:8080/api/money/funds/market
