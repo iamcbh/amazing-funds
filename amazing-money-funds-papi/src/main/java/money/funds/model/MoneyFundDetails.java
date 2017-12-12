@@ -1,11 +1,14 @@
 
 package money.funds.model;
 
+import org.springframework.stereotype.Component;
+
 /**
  * <p>
  * <b> Money Fund details. </b>
  * </p>
  */
+@Component
 public class MoneyFundDetails {
 
     private String fundCode;

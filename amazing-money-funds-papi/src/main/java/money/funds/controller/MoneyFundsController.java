@@ -19,7 +19,7 @@ import money.funds.service.MoneyFundsService;
  */
 @RestController
 @CrossOrigin
-@RequestMapping({"/money/funds/market", "/api/v1.1"}) // Standard
+@RequestMapping({"/api/money/funds/market", "/api/v1.1"}) // Standard
 public class MoneyFundsController {
     @Autowired
     private MoneyFundsService moneyFundsService;
